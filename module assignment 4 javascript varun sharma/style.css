@@ -1,0 +1,14 @@
+.btn{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+    
+    background-color: lightslategrey;
+}
+.btn:hover{
+
+    background-image: linear-gradient(to bottom, rgb(83, 14, 116),rgb(131, 49, 207));
+    color: white;
+    border: solid black 2px;
+}
